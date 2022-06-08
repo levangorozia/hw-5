@@ -18,7 +18,7 @@
 	display: inline-block;
 	vertical-align: middle;
 	margin-right: 27px;
-	
+
 }
 .li-list2{
 	display: inline-block;
@@ -67,4 +67,53 @@
 .right-block{
 	width: 360px;
 	display: inline-block;
+}
+
+/* section #2 */
+
+.image-boxs{
+	width: 1166px;
+	margin: 0 auto;
+
+}
+.satauri-happ{
+	margin-bottom: 38px;
+}
+.image-box-1{
+	width: 760px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+.image-box-2{
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+
+
+.image-4{
+width: 760px;
+margin-bottom: 40px;
+}
+.image-5{
+}
+
+.image-6{
+width: 360px;
+height: 210px;
+margin-bottom: 102px;
+}
+.image-7{
+width: 360px;
+height: 210px;
+margin-bottom: 102px;
+}
+.image-8{
+width: 360px;
+height: 210px;
+
 }
