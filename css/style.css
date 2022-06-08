@@ -1,0 +1,70 @@
+
+.logo {
+	vertical-align: middle;
+	margin: 0 auto;
+	margin-right: 92px;
+	margin-left: 20px;
+}
+
+.navbar{
+	display: inline-block;
+	width: 1440px;
+	background: #F6F8F9;
+	vertical-align: middle;
+	margin: 0 auto;
+}
+
+.li-list1{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 27px;
+	
+}
+.li-list2{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 22px;
+}
+.li-list3{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 22px;
+}
+.li-list4{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 22px;
+}
+.li-list5{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 40px;
+}
+
+/*section #1*/
+
+.satauri-trend{
+	padding-bottom: 38px;
+}
+
+.top-block{
+	width: 1160px;
+	margin: 0 auto;
+	background-color:#FFFFFF;
+	margin-top: 25px ;
+}
+.left-block{
+	width: 360px;
+	height: 350px;
+	 
+	display: inline-block;
+	margin left: 140px;
+}
+.middle-block{
+	width: 360px;
+	display: inline-block;
+}
+.right-block{
+	width: 360px;
+	display: inline-block;
+}
