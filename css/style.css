@@ -1,17 +1,33 @@
+/*header styles*/
+
+.head-block{
+	width: 1440px;
+	background: #F6F8F9;
+}
+
+.div-block1{
+	width: 1440px;
+	height: 50px;
+}
 
 .logo {
+	display: inline-block;
 	vertical-align: middle;
-	margin: 0 auto;
-	margin-right: 92px;
+	margin-right: 80px;
 	margin-left: 20px;
 }
 
-.navbar{
+.img-logo{
 	display: inline-block;
+}
+
+.navigation{
 	width: 1440px;
 	background: #F6F8F9;
 	vertical-align: middle;
-	margin: 0 auto;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 15px;
 }
 
 .li-list1{
@@ -41,33 +57,76 @@
 	margin-right: 40px;
 }
 
+
+
 /*section #1*/
 
+.section-1{
+	width: 1440px;
+}
 .satauri-trend{
-	padding-bottom: 38px;
+	margin-top: 29px;
+	margin-bottom: 40px;
+	font-size: 24px;
+	font font-weight: bold;
 }
 
 .top-block{
 	width: 1160px;
+	display: inline-block;
 	margin: 0 auto;
 	background-color:#FFFFFF;
-	margin-top: 25px ;
+	margin-right: 140px;
+	margin-left: 140px;
+
 }
+
 .left-block{
 	width: 360px;
 	height: 350px;
-	 
 	display: inline-block;
-	margin left: 140px;
+	margin-right: 30px;
+}
+
+.loremipsum1{
+	margin-top: 66px;
+	text-align: justify;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 66px;
+
 }
 .middle-block{
 	width: 360px;
+	height: 350px;
 	display: inline-block;
+	margin-right: 30px;
 }
+
+.loremipsum2{
+	margin-top: 66px;
+	text-align: justify;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 66px;
+}
+
 .right-block{
 	width: 360px;
+	height: 350px;
 	display: inline-block;
 }
+
+.loremipsum3{
+	margin-top: 66px;
+	text-align: justify;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 66px;
+}
+
+
+
 
 /* section #2 */
 
